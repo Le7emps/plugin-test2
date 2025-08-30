@@ -1,0 +1,9 @@
+[project]
+name = "nonebot-plugin-test2"  # 包名，通常带 nonebot-plugin- 前缀
+version = "0.1.0"
+description = "A test plugin."
+
+# 如果它有自己的依赖，也在这里声明
+# dependencies = [
+#     "requests"
+# ]
